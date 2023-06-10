@@ -23,26 +23,53 @@ I am a Software Engineer working in Test Automation looking for back-end develop
 
 ### 🔨 Languages and Tools:
 
+Languages
+
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://en.cppreference.com/w/c" target="_blank"><img align="left" alt="C" height ="42px" src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/c/c.svg"></a>
+<br>
+<br>
+Control version 
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
+<br>
+<br>
+
+Cloud
 
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/aws/aws.svg" align="left" alt="aws" height='42px'/></a>
+<a href="https://azure.com/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/azure/azure.svg" align="left" alt="azure" height='42px'/></a>
+<br>
+<br>
 
+Microservices Framework and Components
+
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/spring/spring.svg" align="left" alt="spring" height='42px'/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/kaafka/kaafka.svg" align="left" alt="kafka" height='42px'/></a>
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/spring/spring.svg" align="left" alt="spring" height='42px'/></a>
+<br>
+<br>
+
+Agile methodology
 
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/jira/atlassian_jira-icon.svg" align="left" alt="jira" height='42px'/></a>
+<br>
+<br>
 
+Test Automation
 
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/selenium/selenium-seeklogo.com.svg" align="left" alt="selenium" height='42px'/></a>
 <a href="https://appium.io/docs/en/2.0/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/appium/appium.svg" align="left" alt="appium" height='42px'/></a>
 <a href="https://www.browserstack.com/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/browserstack/browserstack-icon.svg" align="left" alt="browserstack" height='42px'/></a>
+<br>
+<br>
+
+Databases
 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/mysql/mysql-icon.svg" align="left" alt="mysql" height='42px'/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/postgresql/postgresql-icon.svg" align="left" alt="postgresql" height='42px'/></a>
 <a href="https://www.oracle.com/database/#:~:text=Oracle%20Autonomous%20Database%20is%20an,%2C%20security%2C%20and%20operational%20efficiency." target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/oracle/oracle-icon.svg" align="left" alt="oracle" height='42px'/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/sqlite/sqlite-icon.svg" align="left" alt="sqlite" height='42px'/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/mongodb/mongodb-icon.svg" align="left" alt="mongodb" height='42px'/></a>
+<br>
