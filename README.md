@@ -15,7 +15,7 @@ I am a Software Engineer working in Test Automation looking for back-end develop
 - 💬 &nbsp; Ask me about anything tech related, I am happy exchange ideas and knowledge
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alfred-inga-rios/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UsFGHltlODNObwE8jEZtKiCDx1piCh7x/view?usp=sharing)
-- ⭐️ &nbsp; I have my karate lessons routine and when I am free, I like to practise more sports such as running 🏃🏽‍♂️, volleyball 🏐 or swimming 🏊🏽‍♂️.
+- ⭐️ &nbsp; I practice karate🥋 and when I am free, I like to practise more sports such as running 🏃🏽‍♂️, volleyball 🏐 or swimming 🏊🏽‍♂️.
 
 <br>
 
