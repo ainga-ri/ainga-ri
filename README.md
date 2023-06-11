@@ -5,7 +5,7 @@
 I am a Software Engineer working in Test Automation looking for back-end development and microservices opportunities.
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/android/silpro2.gif" width="340px"/>
+<img align="right" alt="GIF" src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/android/silpro2.gif" width="280px"/>
   
 ### 🧐 More About Me:
 
