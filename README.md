@@ -3,11 +3,9 @@
 <a href='https://www.hackerrank.com/alfred_inga_rios?hr_r=1'><img alt="hackerrank" src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/hackerrank/hackerrank.svg" height='24px'/></a>
 
 I am a Software Engineer working in Test Automation looking for back-end development and microservices opportunities.
-
-<br/>
 <br/>
 
-<img align="right" alt="GIF" src="" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/ainga-ri/ainga-ri/blob/main/language_and_tools/square/android/silpro2.gif" width="340px"/>
   
 ### 🧐 More About Me:
 
@@ -17,7 +15,7 @@ I am a Software Engineer working in Test Automation looking for back-end develop
 - 💬 &nbsp; Ask me about anything tech related, I am happy exchange ideas and knowledge
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alfred-inga-rios/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UsFGHltlODNObwE8jEZtKiCDx1piCh7x/view?usp=sharing)
-- ⭐️ &nbsp; I have my karate lessons routine and when I am free, I like to practise more sports such as running 🏃🏽‍♂️, volleyball 🏐 or swimming 🏊🏽‍♂️. Also I play some nintendo videogames such as Zelda 🎮
+- ⭐️ &nbsp; I have my karate lessons routine and when I am free, I like to practise more sports such as running 🏃🏽‍♂️, volleyball 🏐 or swimming 🏊🏽‍♂️.
 
 <br>
 
